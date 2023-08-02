@@ -12,7 +12,7 @@ Generate a thumbnail gallery from images in a specified directory using PHP. Sup
 ## Requirements
 
 - PHP 5.6 or higher.
-- Web server environment with GD extension enabled.
+- Web server environment with **GD** extension enabled.
 
 ## Usage
 
