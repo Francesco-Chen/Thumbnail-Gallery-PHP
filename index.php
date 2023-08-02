@@ -77,7 +77,7 @@
                           data-src="' . $imageURL . '"
                           data-caption="' . $file . '"
                       >
-                          <img src="' . $imageURL . '" height="100" />
+                          <img src="' . $imageURL . '" height="200" />
                       </a>
                   ';
               } else {
@@ -91,7 +91,7 @@
                           data-src="' . $imageURL . '"
                           data-caption="' . $file . '"
                       >
-                          <img src="' . $thumbURL . '" height="100" />
+                          <img src="' . $thumbURL . '" height="200" />
                       </a>
                   ';
               }
