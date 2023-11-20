@@ -19,6 +19,9 @@ Generate a thumbnail gallery from images in a specified directory using PHP. Sup
 1. Place your images in the "gallery" directory.
 2. Open the PHP script to view the thumbnail gallery.
 
+## Screenshot
+![screen](screen.png)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
